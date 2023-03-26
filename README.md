@@ -1,7 +1,7 @@
 # School_District_Analysis
 _______________________________________
 
-####The purpose of this analysis was to practice using pandas methods to filter and group a dataset. 
+#### The purpose of this analysis was to practice using pandas methods to filter and group a dataset. 
 
 * We started by using .isnull(), .dropna(), .duplicated(), drop_duplicates(), and .isna().sum() to find and drop any rows with null values or duplicate rows.
 
